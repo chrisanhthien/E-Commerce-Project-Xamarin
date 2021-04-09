@@ -10,7 +10,6 @@ Login/Register Pages
 Main Page
 
 ![mainPage](https://user-images.githubusercontent.com/56431971/114212361-bdb1f080-992f-11eb-8c83-fa92d64bf4ca.PNG)
-https://user-images.githubusercontent.com/56431971/114212365-bee31d80-992f-11eb-8855-de89273f7f8f.mp4
 
 
 Menu Tab
