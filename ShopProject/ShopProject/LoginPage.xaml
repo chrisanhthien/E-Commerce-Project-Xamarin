@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ShopProject.LoginPage">
+    <StackLayout Margin="20" VerticalOptions="CenterAndExpand" Spacing="20" Orientation="Vertical">
+        <Entry x:Name="UserEmail" Placeholder="Enter your email"></Entry>
+        <Entry x:Name="UserPassword" Placeholder="Enter your password"></Entry>
+        <Button x:Name="LoginBtn" Text="LogIn" TextColor="White" Clicked="LoginBtn_Clicked" BackgroundColor="Orange"></Button>
+
+        <StackLayout HorizontalOptions="End">
+            <Button x:Name="RegisterRedirect" Text="Register" FontSize="Small" Background="Transparent" Clicked="RegisterRedirect_Clicked"></Button>
+        </StackLayout>
+    </StackLayout>
+    
+</ContentPage>

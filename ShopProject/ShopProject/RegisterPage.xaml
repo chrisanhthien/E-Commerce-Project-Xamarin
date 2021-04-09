@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ShopProject.RegisterPage">
+    <StackLayout Margin="20" VerticalOptions="CenterAndExpand" Spacing="20" Orientation="Vertical">
+        <Entry x:Name="UserEmail" Placeholder="Enter your email"></Entry>
+        <Entry x:Name="UserPassword" Placeholder="Enter your password"></Entry>
+        <Entry x:Name="UserConfirmPassword" Placeholder="Confirm your password"></Entry>
+        <Button x:Name="RegisterBtn" Text="Register" TextColor="White" Clicked="RegisterBtn_Clicked" BackgroundColor="Orange"></Button>
+
+        <StackLayout HorizontalOptions="End">
+            <Button x:Name="alreadyHaveAccount" Text="Already have an account?" FontSize="Small" Background="Transparent" Clicked="alreadyHaveAccount_Clicked"></Button>
+        </StackLayout>
+    </StackLayout>
+</ContentPage>

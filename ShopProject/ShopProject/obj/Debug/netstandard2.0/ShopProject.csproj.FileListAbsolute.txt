@@ -1,0 +1,17 @@
+D:\ShopProject\ShopProject\ShopProject\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\ShopProject\ShopProject\ShopProject\obj\Debug\netstandard2.0\DetailsPage.xaml.g.cs
+D:\ShopProject\ShopProject\ShopProject\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\ShopProject\ShopProject\ShopProject\obj\Debug\netstandard2.0\ShopProject.AssemblyInfoInputs.cache
+D:\ShopProject\ShopProject\ShopProject\obj\Debug\netstandard2.0\ShopProject.AssemblyInfo.cs
+D:\ShopProject\ShopProject\ShopProject\obj\Debug\netstandard2.0\ShopProject.csproj.CoreCompileInputs.cache
+D:\ShopProject\ShopProject\ShopProject\bin\Debug\netstandard2.0\ShopProject.deps.json
+D:\ShopProject\ShopProject\ShopProject\bin\Debug\netstandard2.0\ShopProject.dll
+D:\ShopProject\ShopProject\ShopProject\bin\Debug\netstandard2.0\ref\ShopProject.dll
+D:\ShopProject\ShopProject\ShopProject\bin\Debug\netstandard2.0\ShopProject.pdb
+D:\ShopProject\ShopProject\ShopProject\obj\Debug\netstandard2.0\XamlC.stamp
+D:\ShopProject\ShopProject\ShopProject\obj\Debug\netstandard2.0\ShopProject.dll
+D:\ShopProject\ShopProject\ShopProject\obj\Debug\netstandard2.0\ref\ShopProject.dll
+D:\ShopProject\ShopProject\ShopProject\obj\Debug\netstandard2.0\ShopProject.pdb
+D:\ShopProject\ShopProject\ShopProject\obj\Debug\netstandard2.0\ShopProject.csprojAssemblyReference.cache
+D:\ShopProject\ShopProject\ShopProject\obj\Debug\netstandard2.0\LoginPage.xaml.g.cs
+D:\ShopProject\ShopProject\ShopProject\obj\Debug\netstandard2.0\RegisterPage.xaml.g.cs

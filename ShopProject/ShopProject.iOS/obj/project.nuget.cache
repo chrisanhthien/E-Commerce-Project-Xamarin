@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "GrojgjsGGcbUW4NYcPNVBPFlIf1injKZn8OWt5Lu7H5X+yFKm9W67r3ASqb/SM/UnZ42+HR78WgbW4K5Ix3c3Q==",
+  "success": true,
+  "projectFilePath": "D:\\ShopProject\\ShopProject\\ShopProject.iOS\\ShopProject.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\firebaseauthentication.net\\3.7.1\\firebaseauthentication.net.3.7.1.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.8.0.1451\\xamarin.forms.4.8.0.1451.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\xamarin.plugin.sharedtransitions\\2.4.0\\xamarin.plugin.sharedtransitions.2.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
